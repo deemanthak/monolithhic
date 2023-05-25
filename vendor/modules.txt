@@ -1,0 +1,191 @@
+# github.com/Rhymond/go-money v1.0.9
+## explicit; go 1.13
+github.com/Rhymond/go-money
+# github.com/golang/snappy v0.0.1
+## explicit
+github.com/golang/snappy
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/klauspost/compress v1.13.6
+## explicit; go 1.15
+github.com/klauspost/compress
+github.com/klauspost/compress/fse
+github.com/klauspost/compress/huff0
+github.com/klauspost/compress/internal/snapref
+github.com/klauspost/compress/zstd
+github.com/klauspost/compress/zstd/internal/xxhash
+# github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe
+## explicit
+github.com/montanaflynn/stats
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/stripe/stripe-go/v73 v73.16.0
+## explicit; go 1.13
+github.com/stripe/stripe-go/v73
+github.com/stripe/stripe-go/v73/account
+github.com/stripe/stripe-go/v73/accountlink
+github.com/stripe/stripe-go/v73/applepaydomain
+github.com/stripe/stripe-go/v73/applicationfee
+github.com/stripe/stripe-go/v73/apps/secret
+github.com/stripe/stripe-go/v73/balance
+github.com/stripe/stripe-go/v73/balancetransaction
+github.com/stripe/stripe-go/v73/bankaccount
+github.com/stripe/stripe-go/v73/billingportal/configuration
+github.com/stripe/stripe-go/v73/billingportal/session
+github.com/stripe/stripe-go/v73/capability
+github.com/stripe/stripe-go/v73/card
+github.com/stripe/stripe-go/v73/cashbalance
+github.com/stripe/stripe-go/v73/charge
+github.com/stripe/stripe-go/v73/checkout/session
+github.com/stripe/stripe-go/v73/client
+github.com/stripe/stripe-go/v73/countryspec
+github.com/stripe/stripe-go/v73/coupon
+github.com/stripe/stripe-go/v73/creditnote
+github.com/stripe/stripe-go/v73/customer
+github.com/stripe/stripe-go/v73/customerbalancetransaction
+github.com/stripe/stripe-go/v73/customercashbalancetransaction
+github.com/stripe/stripe-go/v73/dispute
+github.com/stripe/stripe-go/v73/ephemeralkey
+github.com/stripe/stripe-go/v73/event
+github.com/stripe/stripe-go/v73/feerefund
+github.com/stripe/stripe-go/v73/file
+github.com/stripe/stripe-go/v73/filelink
+github.com/stripe/stripe-go/v73/financialconnections/account
+github.com/stripe/stripe-go/v73/financialconnections/session
+github.com/stripe/stripe-go/v73/form
+github.com/stripe/stripe-go/v73/identity/verificationreport
+github.com/stripe/stripe-go/v73/identity/verificationsession
+github.com/stripe/stripe-go/v73/invoice
+github.com/stripe/stripe-go/v73/invoiceitem
+github.com/stripe/stripe-go/v73/issuing/authorization
+github.com/stripe/stripe-go/v73/issuing/card
+github.com/stripe/stripe-go/v73/issuing/cardholder
+github.com/stripe/stripe-go/v73/issuing/dispute
+github.com/stripe/stripe-go/v73/issuing/transaction
+github.com/stripe/stripe-go/v73/loginlink
+github.com/stripe/stripe-go/v73/mandate
+github.com/stripe/stripe-go/v73/oauth
+github.com/stripe/stripe-go/v73/paymentintent
+github.com/stripe/stripe-go/v73/paymentlink
+github.com/stripe/stripe-go/v73/paymentmethod
+github.com/stripe/stripe-go/v73/paymentsource
+github.com/stripe/stripe-go/v73/payout
+github.com/stripe/stripe-go/v73/person
+github.com/stripe/stripe-go/v73/plan
+github.com/stripe/stripe-go/v73/price
+github.com/stripe/stripe-go/v73/product
+github.com/stripe/stripe-go/v73/promotioncode
+github.com/stripe/stripe-go/v73/quote
+github.com/stripe/stripe-go/v73/radar/earlyfraudwarning
+github.com/stripe/stripe-go/v73/radar/valuelist
+github.com/stripe/stripe-go/v73/radar/valuelistitem
+github.com/stripe/stripe-go/v73/refund
+github.com/stripe/stripe-go/v73/reporting/reportrun
+github.com/stripe/stripe-go/v73/reporting/reporttype
+github.com/stripe/stripe-go/v73/review
+github.com/stripe/stripe-go/v73/setupattempt
+github.com/stripe/stripe-go/v73/setupintent
+github.com/stripe/stripe-go/v73/shippingrate
+github.com/stripe/stripe-go/v73/sigma/scheduledqueryrun
+github.com/stripe/stripe-go/v73/sku
+github.com/stripe/stripe-go/v73/source
+github.com/stripe/stripe-go/v73/sourcetransaction
+github.com/stripe/stripe-go/v73/subscription
+github.com/stripe/stripe-go/v73/subscriptionitem
+github.com/stripe/stripe-go/v73/subscriptionschedule
+github.com/stripe/stripe-go/v73/taxcode
+github.com/stripe/stripe-go/v73/taxid
+github.com/stripe/stripe-go/v73/taxrate
+github.com/stripe/stripe-go/v73/terminal/configuration
+github.com/stripe/stripe-go/v73/terminal/connectiontoken
+github.com/stripe/stripe-go/v73/terminal/location
+github.com/stripe/stripe-go/v73/terminal/reader
+github.com/stripe/stripe-go/v73/testhelpers/customer
+github.com/stripe/stripe-go/v73/testhelpers/issuing/card
+github.com/stripe/stripe-go/v73/testhelpers/refund
+github.com/stripe/stripe-go/v73/testhelpers/terminal/reader
+github.com/stripe/stripe-go/v73/testhelpers/testclock
+github.com/stripe/stripe-go/v73/testhelpers/treasury/inboundtransfer
+github.com/stripe/stripe-go/v73/testhelpers/treasury/outboundpayment
+github.com/stripe/stripe-go/v73/testhelpers/treasury/outboundtransfer
+github.com/stripe/stripe-go/v73/testhelpers/treasury/receivedcredit
+github.com/stripe/stripe-go/v73/testhelpers/treasury/receiveddebit
+github.com/stripe/stripe-go/v73/token
+github.com/stripe/stripe-go/v73/topup
+github.com/stripe/stripe-go/v73/transfer
+github.com/stripe/stripe-go/v73/transferreversal
+github.com/stripe/stripe-go/v73/treasury/creditreversal
+github.com/stripe/stripe-go/v73/treasury/debitreversal
+github.com/stripe/stripe-go/v73/treasury/financialaccount
+github.com/stripe/stripe-go/v73/treasury/inboundtransfer
+github.com/stripe/stripe-go/v73/treasury/outboundpayment
+github.com/stripe/stripe-go/v73/treasury/outboundtransfer
+github.com/stripe/stripe-go/v73/treasury/receivedcredit
+github.com/stripe/stripe-go/v73/treasury/receiveddebit
+github.com/stripe/stripe-go/v73/treasury/transaction
+github.com/stripe/stripe-go/v73/treasury/transactionentry
+github.com/stripe/stripe-go/v73/usagerecord
+github.com/stripe/stripe-go/v73/usagerecordsummary
+github.com/stripe/stripe-go/v73/webhookendpoint
+# github.com/xdg-go/pbkdf2 v1.0.0
+## explicit; go 1.9
+github.com/xdg-go/pbkdf2
+# github.com/xdg-go/scram v1.1.1
+## explicit; go 1.11
+github.com/xdg-go/scram
+# github.com/xdg-go/stringprep v1.0.3
+## explicit; go 1.11
+github.com/xdg-go/stringprep
+# github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d
+## explicit
+github.com/youmark/pkcs8
+# go.mongodb.org/mongo-driver v1.11.6
+## explicit; go 1.13
+go.mongodb.org/mongo-driver/bson
+go.mongodb.org/mongo-driver/bson/bsoncodec
+go.mongodb.org/mongo-driver/bson/bsonoptions
+go.mongodb.org/mongo-driver/bson/bsonrw
+go.mongodb.org/mongo-driver/bson/bsontype
+go.mongodb.org/mongo-driver/bson/primitive
+go.mongodb.org/mongo-driver/event
+go.mongodb.org/mongo-driver/internal
+go.mongodb.org/mongo-driver/internal/randutil
+go.mongodb.org/mongo-driver/internal/randutil/rand
+go.mongodb.org/mongo-driver/internal/uuid
+go.mongodb.org/mongo-driver/mongo
+go.mongodb.org/mongo-driver/mongo/address
+go.mongodb.org/mongo-driver/mongo/description
+go.mongodb.org/mongo-driver/mongo/options
+go.mongodb.org/mongo-driver/mongo/readconcern
+go.mongodb.org/mongo-driver/mongo/readpref
+go.mongodb.org/mongo-driver/mongo/writeconcern
+go.mongodb.org/mongo-driver/tag
+go.mongodb.org/mongo-driver/version
+go.mongodb.org/mongo-driver/x/bsonx
+go.mongodb.org/mongo-driver/x/bsonx/bsoncore
+go.mongodb.org/mongo-driver/x/mongo/driver
+go.mongodb.org/mongo-driver/x/mongo/driver/auth
+go.mongodb.org/mongo-driver/x/mongo/driver/auth/internal/awsv4
+go.mongodb.org/mongo-driver/x/mongo/driver/auth/internal/gssapi
+go.mongodb.org/mongo-driver/x/mongo/driver/connstring
+go.mongodb.org/mongo-driver/x/mongo/driver/dns
+go.mongodb.org/mongo-driver/x/mongo/driver/mongocrypt
+go.mongodb.org/mongo-driver/x/mongo/driver/mongocrypt/options
+go.mongodb.org/mongo-driver/x/mongo/driver/ocsp
+go.mongodb.org/mongo-driver/x/mongo/driver/operation
+go.mongodb.org/mongo-driver/x/mongo/driver/session
+go.mongodb.org/mongo-driver/x/mongo/driver/topology
+go.mongodb.org/mongo-driver/x/mongo/driver/wiremessage
+# golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
+## explicit; go 1.17
+golang.org/x/crypto/ocsp
+golang.org/x/crypto/pbkdf2
+# golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+## explicit
+golang.org/x/sync/errgroup
+# golang.org/x/text v0.3.7
+## explicit; go 1.17
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
